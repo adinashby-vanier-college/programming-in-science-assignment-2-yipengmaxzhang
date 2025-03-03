@@ -12,7 +12,7 @@ This is the starter project for Programming in Science Assignment 2. Written in 
    
    - Write a function that takes a list of numbers and returns a sorted list with duplicates removed.
 
-3. **(15%)** Single-Dimensional Arrays - Cumulative Sum:
+3. **(10%)** Single-Dimensional Arrays - Cumulative Sum:
    
    - Write a function that takes an array (list) of numbers and returns a new list where each element is the cumulative sum of the previous elements.
 
